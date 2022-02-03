@@ -8,5 +8,5 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/marcodalcin/fluxcd-infra
+  url: https://github.com/marcodalcin/jenkins-infra
 
